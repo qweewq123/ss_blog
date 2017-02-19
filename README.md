@@ -1,5 +1,5 @@
 ﻿
-运用 Node.JS、Express、MongoDB、Bootstrap 进行博客应用开发
+运用 Node.JS、Express、MongoDB、Bootstrap 进行博客应用开发(实例是爱读邦博客系统)
 
 
 ### 如何使用
